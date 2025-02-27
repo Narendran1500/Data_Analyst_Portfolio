@@ -9,4 +9,9 @@
 - 3.Create calculated columns and measures with DAX
 - 4.Design an interactive dashboard to visualize the data
 
+**Data**: Adventure Works Sales Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/ukveteran/adventure-works?select=AdventureWorks_Customers.csv)
+
+# Tools Used 
+- Microsoft Power BI Desktop
+- Excel
 
