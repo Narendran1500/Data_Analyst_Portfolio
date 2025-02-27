@@ -3,10 +3,10 @@
 - Given  a folder of raw csv files, which contain information about
   transactions, returns, products, customers, and sales territories.
   
--Use Power BI Desktop to:
-• Connect and transform the raw data
-• Build a relational data model
-• Create calculated columns and measures with DAX
-• Design an interactive dashboard to visualize the data
+- Use Power BI Desktop to:
+- 1.Connect and transform the raw data
+- 2.Build a relational data model
+- 3.Create calculated columns and measures with DAX
+- 4.Design an interactive dashboard to visualize the data
 
 
