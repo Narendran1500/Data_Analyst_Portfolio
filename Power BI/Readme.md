@@ -1,9 +1,9 @@
 # Adventure Work Cycles - Power BI
 
 ## Table of Contents
--[Description](description)
--[Use Power BI Desktop to:](use-power-bi-desktop-to:)
--[Tools Used](tools-used)
+-[Description](#description)
+-[Use Power BI Desktop to:](#use-power-bi-desktop-to:)
+-[Tools Used](#tools-used)
 
 ### Description
 - AdventureWorks a global manufacturing company that produces cycling equipment and accessories.
