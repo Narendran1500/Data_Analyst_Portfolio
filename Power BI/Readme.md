@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Description](#description)
-- [Use Power BI Desktop to:](#use-power-bi-desktop-to:)
+- [Use Power BI Desktop to:](#use-power-bi-desktop-to)
 - [Tools Used](#tools-used)
 
 ### Description
