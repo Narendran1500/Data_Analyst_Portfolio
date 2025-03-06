@@ -13,7 +13,8 @@ To run this project, ensure you have the following libraries installed:
 pip install pandas numpy sqlalchemy pymysql
 
 ## Data Description
-The dataset used in this project is the Shipment Orders Dataset, which contains various attributes related to shipment orders including: -Order Date: Date of the order.
+The dataset used in this project is the Shipment Orders Dataset, which contains various attributes related to shipment orders including: 
+-Order Date: Date of the order.
 
 -Ship Mode: Mode of shipment
 
@@ -38,5 +39,5 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 
 -Comprehensive queries to extract meaningful information.
 
-
+** Data**: Shipment Orders Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset)
 
