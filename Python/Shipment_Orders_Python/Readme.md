@@ -39,5 +39,5 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 
 -Comprehensive queries to extract meaningful information.
 
-** Data**: Shipment Orders Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset)
+**Data**: Shipment Orders Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset)
 
