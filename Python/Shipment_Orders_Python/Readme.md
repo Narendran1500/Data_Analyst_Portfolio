@@ -7,6 +7,7 @@ This project focuses on analyzing shipment order data using Python, Pandas, and 
 - [Installation](#installation)
 - [Data Description](#data-description)
 - [Key Features](#key-features)
+- [Dataset](#dataset)
 
 ## Installation
 To run this project, ensure you have the following libraries installed:
@@ -39,5 +40,6 @@ The dataset used in this project is the Shipment Orders Dataset, which contains 
 
 -Comprehensive queries to extract meaningful information.
 
-**Data**: Shipment Orders Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset)
+## Dataset
+Shipment Orders Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/akshatagrawal9431/shipment-orders-dataset)
 
