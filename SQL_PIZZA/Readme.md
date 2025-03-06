@@ -18,5 +18,5 @@ The dataset contains sales transactions from a pizza restaurant, including:
 - Pizzas (pizza_id,	pizza_type_id, size, price)
 
 ## Tools Used
-- Oracle SQl Developer
+- Oracle SQL Developer
 - Microsoft Excel
