@@ -7,9 +7,7 @@
 - [Tools Used](#tools-used)
 
 ### Description
-- AdventureWorks a global manufacturing company that produces cycling equipment and accessories.
-- Given  a folder of raw csv files, which contain information about
-  transactions, returns, products, customers, and sales territories.
+- This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
 
 ### Dashboard Requirements
 - Primary KPI's - Total Casualties and Total Accident values for Current Year and YoY Growth
@@ -30,4 +28,4 @@
 - Microsoft Power BI Desktop
 - Excel
 
-**Data**: Adventure Works Sales Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset)
+**Data**: Road Accident Data provided on Kaggle for public use.[Link](https://www.kaggle.com/datasets/nextmillionaire/car-accident-dataset)
